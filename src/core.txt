@@ -1,1 +1,2 @@
 A small dart library to generate Assets dart code from assets folder.
+# keep defaults in sync with the manifest
