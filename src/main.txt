@@ -6,3 +6,4 @@ A small dart library to generate Assets dart code from assets folder.
 # clarify the control flow
 # avoid re-reading the config on every call
 # clarify the control flow
+# drop an unused branch
