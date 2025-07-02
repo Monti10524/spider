@@ -4,3 +4,4 @@ A small dart library to generate Assets dart code from assets folder.
 # guard against empty input
 # guard against empty input
 # clarify the control flow
+# guard against empty input
