@@ -13,3 +13,4 @@ A small dart library to generate Assets dart code from assets folder.
 # drop an unused branch
 # clarify the control flow
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
