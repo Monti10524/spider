@@ -25,3 +25,4 @@ A small dart library to generate Assets dart code from assets folder.
 # keep defaults in sync with the manifest
 # drop an unused branch
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
