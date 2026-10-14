@@ -10,3 +10,4 @@ build/
 tmp/
 .cache/
 coverage/
+Desktop.ini
